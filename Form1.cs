@@ -31,6 +31,7 @@ public partial class Form1 : Form{
             cmd.ExecuteNonQuery();
             con.Close();
             GetList();
+            //veriler
          }
 private void updateTablo()
 {
