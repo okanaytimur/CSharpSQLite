@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y76hejn/YgWLobHL+eBEaUW1PjtBzd2Tb/gW29QW0RHhevVkayM1YwY35s8hktIHxOmjbeqTqC+w/I6WeML4Cw==",
+  "dgSpecHash": "jfDvyevJIamc+0HKYcyfhAbqz1Tn+tzXU7MymNkmJtlo64bI2LTjOCeSUwwpQygbCcJqEOmNjrPVtThDFxYaCA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Emine\\Desktop\\yeni1.2\\yeni.csproj",
+  "projectFilePath": "c:\\Users\\Emine\\Desktop\\YeniProje2\\yeni.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Emine\\.nuget\\packages\\bitmiracle.libtiff.net\\2.4.649\\bitmiracle.libtiff.net.2.4.649.nupkg.sha512",
     "C:\\Users\\Emine\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",

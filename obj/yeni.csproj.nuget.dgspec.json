@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Emine\\Desktop\\yeni1.2\\yeni.csproj": {}
+    "c:\\Users\\Emine\\Desktop\\YeniProje2\\yeni.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Emine\\Desktop\\yeni1.2\\yeni.csproj": {
+    "c:\\Users\\Emine\\Desktop\\YeniProje2\\yeni.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Emine\\Desktop\\yeni1.2\\yeni.csproj",
+        "projectUniqueName": "c:\\Users\\Emine\\Desktop\\YeniProje2\\yeni.csproj",
         "projectName": "yeni",
-        "projectPath": "c:\\Users\\Emine\\Desktop\\yeni1.2\\yeni.csproj",
+        "projectPath": "c:\\Users\\Emine\\Desktop\\YeniProje2\\yeni.csproj",
         "packagesPath": "C:\\Users\\Emine\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Emine\\Desktop\\yeni1.2\\obj\\",
+        "outputPath": "c:\\Users\\Emine\\Desktop\\YeniProje2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Emine\\AppData\\Roaming\\NuGet\\NuGet.Config"
